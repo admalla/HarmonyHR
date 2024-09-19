@@ -1,0 +1,2 @@
+type MenuItems = 'Home' | 'My info' | 'People' | 'Hiring' | 'Reports' | 'Files'
+type MenuItemsMyInfo = 'Personal' | 'Job' | 'Time Off' | 'Emergency' | 'Documents' | 'Notes' | 'Benefits' | 'Training' | 'Assets' | 'More'
